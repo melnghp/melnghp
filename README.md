@@ -13,7 +13,7 @@ I audit techy stuff at Grab 👩‍💻, and currently a Data Science student at
   - SQL
 
 ### 📂 Portfolio:
-- 
+- Network Intrusion System - Classification of Network Traffic
 
 ---
 ### 💬 Find me here:
